@@ -5,7 +5,7 @@ date: 2020-09-28 12:00:00 -0600
 description: Simon Says by Jason Pape # Add post description (optional)
 img: simon.jpg # Add image post (optional)
 fig-caption: A screenshot of Simon Says # Add figcaption (optional)
-tags: [Trivia, Javascript, Tumult Hype, Games, Computer Science]
+tags: [Simon, Javascript, Tumult Hype, Games, Computer Science]
 ---
 
 ----

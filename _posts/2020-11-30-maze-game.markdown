@@ -1,15 +1,16 @@
 ---
 layout: post
-title: Trivia Game
-date: 2020-09-14 12:00:00 -0600
+title: Maze Game
+date: 2019-09-14 12:00:00 -0600
 description: Computer Science Trivia by Jason Pape # Add post description (optional)
-img: trivia.jpg # Add image post (optional)
+img: maze.jpg # Add image post (optional)
 fig-caption: A screenshot of Computer Science Trivia # Add figcaption (optional)
 tags: [Trivia, Javascript, Tumult Hype, Games, Computer Science]
 ---
 
 ----
 ## Game
+placeholder text
 Click <a href="https://jasonkpape.github.io/trivia/" target="_blank">HERE</a> to play.
 
 ----
