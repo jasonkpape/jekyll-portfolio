@@ -10,6 +10,8 @@ site-twitter: #if your site has a twitter account, enter it here
 author: Jason Kendrick Pape # add your name
 author-img: capybara-128w-128h.jpg # add your photo
 about-author: I am a computer programming student interested game design and other software development.
+<br/><br/>
+<a href="https://jasonkpape.github.io/resume/resume.pdf" target="_blank">RESUME</a> # add description
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
 social-github: jasonkpape # add your Github handle
