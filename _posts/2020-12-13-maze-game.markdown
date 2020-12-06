@@ -1,0 +1,53 @@
+---
+layout: post
+title: Maze Game
+date: 2020-12-05 12:00:00 -0600
+description: Dungeon of Discomfort by Jason Pape # Add post description (optional)
+img: maze.jpg # Add image post (optional)
+fig-caption: A screenshot of Dungeon of Discomfort # Add figcaption (optional)
+tags: [Maze, Javascript, Tumult Hype, Games, Tilesets, Collision Detection, Spritesheet, Computer Science]
+---
+
+----
+## Game
+Click <a href="https://jasonkpape.github.io/maze/" target="_blank">HERE</a> to play.
+
+----
+## Project Description
+This is an implimentation of a maze game using tilesets. The map and a 2D array were created with <a href="https://www.mapeditor.org/" target="_blank">Tiled</a>. The player must move a player character to the exit before the timer expires. The time remaining is indicated by both a numerical timer and a graphical time meter. The player must collect items in the maze in order to bypass a number of obstacles.
+
+----
+## Customization
+Students followed along with the instructor to create the base game and were then given two weeks to make the following modifications:
+
+* Create a new maze layout with Tiled and move the 'keys' and 'doors' to new locations
+* Replace the player-character image
+  * Created a four-direction spritesheet for the player character in so that they will change direction depending on which key is pressed
+* Replace at least three of the original audio resources as well as the credits music
+  * Replaced all audio resources with music and sound effects of my own creation
+* Change the fonts, colors, and background images ang buttons and other elements in all scenes
+* Personalize the credits scene
+
+I made the following additional modifications:
+
+* Created a new tileset using Photoshop
+* Animated the player character's movement from one tile to the next using jQuery. (The player originally moved to the next tile instantaneously.)
+* Increased the number of difficulty levels from two to four
+  * Implemented an animated fog effect for certain difficulty levels
+* Modified the original "fog of war" mask that makes the player seems enveloped in darkness on some difficulty levels so that it is translucent along the edges
+* Replaced the keys and doors with different obstacles and items created in Photoshop
+* Changed the title from "Maze Madness" to "Dungeon of Discomfort"
+* Altered the splash-screen countdown animation
+* Recorded a set of footstep sounds and wrote code to cycle through the samples to create a more realistic effect
+* Modified the walking code so that the player moves at a constant speed when the key is held down. Movement is no longer reliant on the keyboard timing settings.
+* Modified the collision sound-effect code to sound only when the player tries to intentionally walk through walls or other obstacles.
+
+All art created with Adobe Illustrator and Photoshop.
+All music and sound effects created with Propellerhead Reason, <a href="https://sfbgames.com/chiptone/">ChipTone</a>, and Adobe Audition. Unmodified footstep samples sourced from a soundbank in Reason.
+
+----
+## Hosting and Usability Testing
+ A GitHub account was created and the game was hosted at <a href="https://jasonkpape.github.io/maze/" target="_blank">https://jasonkpape.github.io/maze/</a>. Students were then required to find two volunteers and have each perform a usability test. Students submitted the basic Tumult Hype file and the usability test results, along with a link to the actual game for grading.
+
+----
+[RETURN TO HOME](https://jasonkpape.github.io/jekyll-portfolio/)
