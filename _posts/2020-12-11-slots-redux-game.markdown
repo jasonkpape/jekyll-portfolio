@@ -1,20 +1,20 @@
 ---
 layout: post
-title: Slots Redux Game
-date: 2020-12-11 12:00:00 -0600
-description: Slots Redux by Jason Pape # Add post description (optional)
+title: Candy Corn Armageddon Redux
+date: 2020-12-15 12:00:00 -0600
+description: Candy Corn Armageddon Redux by Jason Pape # Add post description (optional)
 img: slots-redux.jpg # Add image post (optional)
-fig-caption: A screenshot of Slots Redux # Add figcaption (optional)
+fig-caption: A screenshot of Candy Corn Armageddon Redux # Add figcaption (optional)
 tags: [Slots, Javascript, Tumult Hype, Games, Computer Science, jQuery, Halloween]
 ---
 
 ----
-## Game
-Click <a href="https://jasonkpape.github.io/slots-redux/" target="_blank">HERE</a> to play.
-
-----
 ## Project Description
 The final project for DGIM 2530 - Game Design 1, this is a modified version of my previous Slots game. The assignment was to alter the theme, add one improvement suggested by one of the playtesters of the previous version, and one new feature.
+
+----
+## Game
+Click <a href="https://jasonkpape.github.io/slots-redux/" target="_blank">HERE</a> to play.
 
 ----
 ## Customization

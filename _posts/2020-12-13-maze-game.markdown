@@ -1,20 +1,20 @@
 ---
 layout: post
-title: Maze Game
+title: Dungeon of Discomfort!
 date: 2020-12-05 12:00:00 -0600
-description: Dungeon of Discomfort by Jason Pape # Add post description (optional)
+description: Dungeon of Discomfort! by Jason Pape # Add post description (optional)
 img: maze.jpg # Add image post (optional)
-fig-caption: A screenshot of Dungeon of Discomfort # Add figcaption (optional)
+fig-caption: A screenshot of Dungeon of Discomfort! # Add figcaption (optional)
 tags: [Maze, Javascript, Tumult Hype, Games, Tilesets, Collision Detection, Spritesheet, Computer Science]
 ---
 
 ----
-## Game
-Click <a href="https://jasonkpape.github.io/maze/" target="_blank">HERE</a> to play.
-
-----
 ## Project Description
 This is an implimentation of a maze game using tilesets. The map and a 2D array were created with <a href="https://www.mapeditor.org/" target="_blank">Tiled</a>. The player must move a player character to the exit before the timer expires. The time remaining is indicated by both a numerical timer and a graphical time meter. The player must collect items in the maze in order to bypass a number of obstacles.
+
+----
+## Game
+Click <a href="https://jasonkpape.github.io/maze/" target="_blank">HERE</a> to play.
 
 ----
 ## Customization

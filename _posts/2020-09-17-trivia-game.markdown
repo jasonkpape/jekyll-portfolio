@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Trivia Game
+title: Computer Science Trivia
 date: 2020-09-14 12:00:00 -0600
 description: Computer Science Trivia by Jason Pape # Add post description (optional)
 img: trivia.jpg # Add image post (optional)
@@ -9,12 +9,12 @@ tags: [Trivia, Javascript, Tumult Hype, Games, Computer Science]
 ---
 
 ----
-## Game
-Click <a href="https://jasonkpape.github.io/trivia/" target="_blank">HERE</a> to play.
-
-----
 ## Project Description
 The first project for DGIM 2530 - Game Design 1 creates a simple Trivia Game using Tumult Hype. The project consists of three scenes and utilizes an external Javascript file, which is used to customize the content displayed. Global variables are used to keep track of the score between scenes and are defined in Tumult Hype using the "Edit Head HTML" option.
+
+----
+## Game
+Click <a href="https://jasonkpape.github.io/trivia/" target="_blank">HERE</a> to play. Chrome recommended.
 
 ----
 ## Customization

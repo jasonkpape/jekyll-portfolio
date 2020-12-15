@@ -1,20 +1,20 @@
 ---
 layout: post
-title: Slider Game
+title: Soulful Toads Slider Puzzle
 date: 2020-12-14 12:00:00 -0600
-description: Slider Puzzle by Jason Pape # Add post description (optional)
+description: Soulful Toads Slider Puzzle by Jason Pape # Add post description (optional)
 img: slider.jpg # Add image post (optional)
-fig-caption: A screenshot of the Slider Puzzle Game # Add figcaption (optional)
+fig-caption: A screenshot of the Soulful Toads Slider Puzzle # Add figcaption (optional)
 tags: [Javascript, Tumult Hype, Games, Computer Science, Slider, Puzzle, Frog, Toad]
 ---
 
 ----
-## Game
-Click <a href="https://jasonkpape.github.io/slider/" target="_blank">HERE</a> to play.
-
-----
 ## Project Description
 This was an optional assignment. It is a recreation of a sliding puzzle game. The player chooses one of nine images, the number of rows and columns, and whether or not to display numbers on each tile. The computer randomly shuffles the tiles, then the player attempts to rearrange them. A preview of the finished image is shown next to the puzzle for reference.
+
+----
+## Game
+Click <a href="https://jasonkpape.github.io/slider/" target="_blank">HERE</a> to play.
 
 ----
 ## Customization

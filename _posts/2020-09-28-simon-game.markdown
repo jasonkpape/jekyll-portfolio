@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Simon Game
+title: Simon Says
 date: 2020-09-28 12:00:00 -0600
 description: Simon Says by Jason Pape # Add post description (optional)
 img: simon.jpg # Add image post (optional)
@@ -9,12 +9,12 @@ tags: [Simon, Javascript, Tumult Hype, Games, Computer Science]
 ---
 
 ----
-## Game
-Click <a href="https://jasonkpape.github.io/simonsays/" target="_blank">HERE</a> to play.
-
-----
 ## Project Description
 This is a recreation of the Simon electronic game originally sold by Milton Bradley. There are four buttons that light up and play a tone in a randomized order, and the player must reproduce the sequence, which gets longer with each round. An array of 100 entries is randomly generated at the beginning, and a separate array keeps track of how many entries in the sequence the user has remembered correctly so far.
+
+----
+## Game
+Click <a href="https://jasonkpape.github.io/simonsays/" target="_blank">HERE</a> to play.
 
 ----
 ## Customization
@@ -42,7 +42,7 @@ The following additional modifications were made:
   * Animal mode played animal sound effects
 * Added music to various scenes and events
 
-All sound sound effects and music created with Propellerhead Reason, Adobe Audition, and ChipTone (https://sfbgames.com/chiptone/), except for the classic Simon tones, which I sourced from a video of someone playing the original game.
+All sound sound effects and music created with Propellerhead Reason, Adobe Audition, and <a href="https://sfbgames.com/chiptone/">ChipTone</a>, except for the classic Simon tones, which I sourced from a video of someone playing the original game.
 
 ----
 ## Hosting and Usability Testing

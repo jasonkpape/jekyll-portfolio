@@ -1,20 +1,20 @@
 ---
 layout: post
-title: Slots Game
+title: Candy Corn Armageddon
 date: 2020-11-15 12:00:00 -0600
-description: Slots by Jason Pape # Add post description (optional)
+description: Candy Corn Armageddon by Jason Pape # Add post description (optional)
 img: slots.jpg # Add image post (optional)
-fig-caption: A screenshot of Slots # Add figcaption (optional)
+fig-caption: A screenshot of Candy Corn Armageddon # Add figcaption (optional)
 tags: [Slots, Javascript, Tumult Hype, Games, Computer Science, jQuery, Halloween]
 ---
 
 ----
-## Game
-Click <a href="https://jasonkpape.github.io/slots/" target="_blank">HERE</a> to play.
-
-----
 ## Project Description
 This is an implementation of a slot machine. jQuery is used to control various buttons and animations. The code must randomize the results of each spin and check for winning combinations. Gameplay statistics are recorded and displayed to the player after they cash out.
+
+----
+## Game
+Click <a href="https://jasonkpape.github.io/slots/" target="_blank">HERE</a> to play.
 
 ----
 ## Customization
@@ -48,7 +48,7 @@ I made the following additional modifications:
 
 All the music and sound effects were created with Propellerhead Reason, GarageBand, and Adobe Audition. For the music that plays in the main scene, I felt like I needed to come up with something propulsive but not invasive and also long enough that it does not repeat too often during a single play session. I had aimed for a six-minute song, but due to time constraints, I was only able to come up with four minutes of music.
 
-The 'back' easing formula I used was based on one used in jQuery Easing v1.3 (https://gsgd.co.uk/sandbox/jquery/easing/), which is open source under the BSD License.
+The 'back' easing formula I used was based on one used in <a href="https://gsgd.co.uk/sandbox/jquery/easing/" target="_blank">jQuery Easing v1.3</a>, which is open source under the BSD License.
 
 
 ----
