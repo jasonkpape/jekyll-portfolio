@@ -42,11 +42,11 @@ The following additional modifications were made:
   * Animal mode played animal sound effects
 * Added music to various scenes and events
 
-All sound sound effects and music created with Propellerhead Reason, Adobe Audition, and Chiptone (https://sfbgames.com/chiptone/), except for the classic Simon tones, which I sourced from a video of someone playing the original game.
+All sound sound effects and music created with Propellerhead Reason, Adobe Audition, and ChipTone (https://sfbgames.com/chiptone/), except for the classic Simon tones, which I sourced from a video of someone playing the original game.
 
 ----
 ## Hosting and Usability Testing
-A GitHub account was created and the game was hosted at <a href="https://jasonkpape.github.io/simonsays/" target="_blank">https://jasonkpape.github.io/trivia/</a>. Students were then required to find two volunteers and have each perform a usability test. Students submitted the basic Tumult Hype file and the usability test results, along with a link to the actual game for grading.
+A GitHub account was created and the game was hosted at <a href="https://jasonkpape.github.io/simonsays/" target="_blank">https://jasonkpape.github.io/simonsays/</a>. Students were then required to find two volunteers and have each perform a usability test. Students submitted the basic Tumult Hype file and the usability test results, along with a link to the actual game for grading.
 
 ----
 [RETURN TO HOME](https://jasonkpape.github.io/jekyll-portfolio/)

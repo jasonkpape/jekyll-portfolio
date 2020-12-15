@@ -53,7 +53,7 @@ The 'back' easing formula I used was based on one used in jQuery Easing v1.3 (ht
 
 ----
 ## Hosting and Usability Testing
- A GitHub account was created and the game was hosted at <a href="https://jasonkpape.github.io/trivia/" target="_blank">https://jasonkpape.github.io/trivia/</a>. Students were then required to find two volunteers and have each perform a usability test. Students submitted the basic Tumult Hype file and the usability test results, along with a link to the actual game for grading.
+ A GitHub account was created and the game was hosted at <a href="https://jasonkpape.github.io/slots/" target="_blank">https://jasonkpape.github.io/slots/</a>. Students were then required to find two volunteers and have each perform a usability test. Students submitted the basic Tumult Hype file and the usability test results, along with a link to the actual game for grading.
 
 ----
 [RETURN TO HOME](https://jasonkpape.github.io/jekyll-portfolio/)
