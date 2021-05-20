@@ -47,6 +47,7 @@ I made the following additional modifications:
 * Added an animation of the cannon exploding to display when the cannon is struck by one of the invader's bolts
 * Implemented code to allow the cannon's and invaders' bolts to shoot away at the barriers as occurred in the original Space Invaders game
 * Added additional text effects to inform the player when they receive an extra play or move on to the next wave
+* Upgraded collision detection to detect side impacts with bolts
 
 ----
 ## Hosting and Usability Testing
