@@ -10,7 +10,7 @@ tags: [Javascript, Tumult Hype, Games, Computer Science, Space Invaders, Arcade]
 
 ----
 ## Project Description
-This game is a recreation of the classic Space Invaders arcade game. The player controls a cannon that can move left, move right, and shoot upward. The goal is to shoot all of the invaders before they can descend upon the cannont. There are four barriers in place that the cannon can use to evade fire.
+This game is a recreation of the classic <cite>Space Invaders</cite> arcade game. The player controls a cannon that can move left, move right, and shoot upward. The goal is to shoot all of the invaders before they can descend upon the cannont. There are four barriers in place that the cannon can use to evade fire.
 
 ----
 ## Game
