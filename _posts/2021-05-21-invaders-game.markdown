@@ -5,12 +5,12 @@ date: 2021-05-19 21:00:00 -0600
 description: Spectral Invasion by Jason Pape # Add post description (optional)
 img: invaders.jpg # Add image post (optional)
 fig-caption: A screenshot of Spectral Invasion # Add figcaption (optional)
-tags: [Javascript, Tumult Hype, Games, Computer Science, Space Invaders, Arcade]
+tags: [Javascript, Tumult Hype, Games, Computer Science, Space Invaders, Arcade, Tomohiro Nishikado]
 ---
 
 ----
 ## Project Description
-This game is a recreation of the classic <cite>Space Invaders</cite> arcade game. The player controls a cannon that can move left, move right, and shoot upward. The goal is to shoot all of the invaders before they can descend upon the cannon. There are four barriers in place that the cannon can use to evade fire.
+This game is a recreation of the classic <cite>Space Invaders</cite> arcade game designed by Tomohiro Nishikado. The player controls a cannon that can move left, move right, and shoot upward. The goal is to shoot all of the invaders before they can descend upon the cannon. There are four barriers in place that the cannon can use to evade fire.
 
 ----
 ## Game
@@ -51,7 +51,7 @@ I made the following additional modifications:
 
 ----
 ## Hosting and Usability Testing
- A GitHub account was created and the game was hosted at <a href="https://jasonkpape.github.io/space-invaders/" target="_blank">https://jasonkpape.github.io/space-invaders/</a>. Students submitted the basic Tumult Hype file along with a link to the actual game for grading.
+ A GitHub account was created and the game was hosted at <a href="https://jasonkpape.github.io/space-invaders/" target="_blank">https://jasonkpape.github.io/space-invaders/</a>. Students were then required to find two volunteers and have each perform a usability test. Students submitted the basic Tumult Hype file along with a link to the actual game for grading.
 
 ----
 [RETURN TO HOME](https://jasonkpape.github.io/jekyll-portfolio/)
