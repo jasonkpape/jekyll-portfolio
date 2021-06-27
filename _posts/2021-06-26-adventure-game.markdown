@@ -66,7 +66,7 @@ I made the following additional modifications:
 
 ----
 ## Hosting and Usability Testing
- A GitHub account was created and the game was hosted at <a href="https://jasonkpape.github.io/aventure/" target="_blank">https://jasonkpape.github.io/adventure/</a>. Students were then required to find two volunteers and have each perform a usability test. Students submitted the basic Tumult Hype file along with a link to the actual game for grading.
+ A GitHub account was created and the game was hosted at <a href="https://jasonkpape.github.io/adventure/" target="_blank">https://jasonkpape.github.io/adventure/</a>. Students were then required to find two volunteers and have each perform a usability test. Students submitted the basic Tumult Hype file along with a link to the actual game for grading.
 
 ----
 [RETURN TO HOME](https://jasonkpape.github.io/jekyll-portfolio/)
