@@ -63,6 +63,7 @@ I made the following additional modifications:
   * The chalice now snaps into position in the center of the table
 * Created new images for all items
 * Added animation to credits scene
+* Added a customized loading screen
 
 ----
 ## Hosting and Usability Testing
