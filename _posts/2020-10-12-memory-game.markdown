@@ -14,7 +14,7 @@ This is an implementation of the classic memory game in which the player choose 
 
 ----
 ## Game
-Click <a href="https://jasonkpape.github.io/trivia/" target="_blank">HERE</a> to play.
+Click <a href="https://jasonkpape.github.io/memory/" target="_blank">HERE</a> to play.
 
 ----
 ## Customization
